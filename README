@@ -1,0 +1,159 @@
+wip
+-------
+** haskell | https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ
+** linux driver development | https://lwn.net/Kernel/LDD3/
+** openstack - 4fasters | https://www.youtube.com/playlist?list=PL0zspxm7AK_DsypYjkFVEU7ZxPn5gReKF
+** window manager | https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/
+** write yourself a git | https://wyag.thb.lt/
+** build an interpreter | https://ruslanspivak.com/lsbasi-part1/
+
+history
+-------
+akita - basic knowledges | https://www.youtube.com/watch?v=sx4hAHhO9CY&list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z&index=8
+akita - front-end | https://www.youtube.com/watch?v=VKmPGmFY7H4&list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z&index=9
+akita - back-end 1 | https://www.youtube.com/watch?v=Qjk-cSW-jk4&list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z&index=10
+akita - back-end 2 | https://www.youtube.com/watch?v=N6vgZr1k03g&list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z&index=11
+akita - back-end 3 | https://www.youtube.com/watch?v=cx1ULv4wYxM&list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z&index=13
+akita - back-end 4 | https://www.youtube.com/watch?v=gYJSWs-gp1g&list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z&index=14
+akita - back-end 5 | https://www.youtube.com/watch?v=9AK_1gqEfkQ&list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z&index=15
+akita - back-end 6 | https://www.youtube.com/watch?v=DGU1awKrNiA&list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z&index=16
+akita - devops 1 | https://www.youtube.com/watch?v=bwO8EZf0gLI&list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z&index=17
+akita - devops 2 | https://www.youtube.com/watch?v=mcwnQVAn0pw&list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z&index=18
+akita - endgame | https://www.youtube.com/watch?v=EdOkYEE1J_Y&list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z&index=19
+
+utils
+-------
+big o cheatsheet | https://www.bigocheatsheet.com/
+bitwise operator | https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops
+vt100 terminals docs | https://vt100.net/
+
+net
+-------
+gabriel torres redes | https://www.udemy.com/course/redes-modulo-1/
+gabriel torres tcp/ip | https://www.udemy.com/course/redes-tcpip/
+
+assembly
+-------
+x86 base assembly - mente binaria | https://mentebinaria.gitbook.io/assembly/a-base
+
+C/C++
+-------
+advanced programming in the unix environment | https://www.youtube.com/c/cs631apue/videos
+akita - c1 | https://www.youtube.com/watch?v=Gp2m8ZuXoPg&list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W&index=6
+akita - c2 | https://www.youtube.com/watch?v=YyWMN_0g3BQ&list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W&index=7
+gnu coding standards | https://www.gnu.org/prep/standards/standards.html
+learn cpp | https://www.learncpp.com/
+
+tuto
+-------
+concurrent servers | https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/
+shell in c from scratch | https://brennan.io/2015/01/16/write-a-shell-in-c/
+write your own text editor | https://viewsourcecode.org/snaptoken/kilo/index.html
+writing a sqlite like db from scratch | https://cstack.github.io/db_tutorial/
+
+front-end
+-------
+css bem | http://getbem.com/introduction/
+storybook | https://storybook.js.org/docs/react/get-started/introduction
+web moderno cod3r | https://www.cod3r.com.br/courses/web-moderno
+grid layout | https://www.youtube.com/watch?v=HN1UjzRSdBk
+
+docker
+-------
+docker cod3r | https://www.cod3r.com.br/courses/docker
+docker step 1 - under the hood | https://www.youtube.com/watch?v=S7Hv2CdNmuA
+docker step 2 - under the hood | https://www.youtube.com/watch?v=FCSVTLza35k
+docker step 3 - under the hood | https://www.youtube.com/watch?v=hDaSWsoUdw8
+descomplicando o docker - linuxtips | https://www.youtube.com/playlist?list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_
+
+python
+-------
+cosmic python | https://www.cosmicpython.com/book/preface.html
+python mundo 1 - guanabara | https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+python mundo 2 - guanabara | https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye
+python mundo 3 - guanabara | https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH
+dunossauro channel | https://www.youtube.com/c/Dunossauro/videos
+
+patterns & methodologies
+-------
+api problems details rfc | https://www.rfc-editor.org/rfc/rfc7807
+atomic design | https://bradfrost.com/blog/post/atomic-web-design/
+conventional commits | https://www.conventionalcommits.org/en/v1.0.0/
+ddd elemar/branas talk | https://www.youtube.com/watch?v=NsQnmmIykoE
+design patterns | https://refactoring.guru/design-patterns
+injecao de dependencia - codeeasy | https://www.youtube.com/watch?v=pIyNfpgHpFU
+solid | https://www.youtube.com/watch?v=vAV4Vy4jfkc
+test pyramid | https://martinfowler.com/articles/practical-test-pyramid.html
+
+git
+-------
+official git book | https://git-scm.com/book/en/v2
+
+database
+-------
+database transactions | https://www.postgresql.org/docs/9.5/transaction-iso.html
+mongodb aggregation framework - erick wendel | https://www.youtube.com/watch?v=pWT-KF0Z2fA
+
+system design
+-------
+some system desing interview resolutions | https://github.com/donnemartin/system-design-primer
+rest | https://arquiteturadesoftware.online/fundamentos-para-sistemas-com-arquiteturas-rest-capitulo-9-v-1-02/
+graphql | https://medium.com/trainingcenter/graphql-para-iniciantes-a4cbe6c3da5d
+
+algorithms
+-------
+visualizations | https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+programacao dinamica | https://www.youtube.com/playlist?list=PL5TJqBvpXQv5Bb71AE5Cd_kB5rNsfU4Cp
+quotient filter | https://systemdesign.one/quotient-filter-explained/
+bloom filter | https://www.andreinc.net/2022/03/01/on-implementing-bloom-filters-in-c
+
+rust
+-------
+os in rust | https://os.phil-opp.com/
+rust book | https://doc.rust-lang.org/stable/book/
+** rust atomics and loocks | https://marabos.nl/atomics/
+
+linux
+-------
+foca linux | https://www.guiafoca.org/
+
+memory management
+-------
+garbage collector impl | http://maplant.com/gc.html
+memory allocator impl | https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory
+jemalloc official | https://github.com/jemalloc/jemalloc
+mimalloc official | https://github.com/microsoft/mimalloc
+malloc impl | https://danluu.com/malloc-tutorial/
+how kernel manage memory serie | https://manybutfinite.com/post/motherboard-chipsets-memory-map/
+how kernel manage memory serie | https://manybutfinite.com/post/memory-translation-and-segmentation/
+how kernel manage memory serie | https://manybutfinite.com/post/cpu-rings-privilege-and-protection/
+how kernel manage memory serie | https://manybutfinite.com/post/anatomy-of-a-program-in-memory/ 
+how kernel manage memory serie | https://manybutfinite.com/post/how-the-kernel-manages-your-memory/
+** os in rust memory management part | https://os.phil-opp.com/paging-introduction/
+** os in rust memory management part | https://os.phil-opp.com/paging-implementation/
+** os in rust memory management part | https://os.phil-opp.com/heap-allocation/
+** os in rust memory management part | https://os.phil-opp.com/allocator-designs/
+** jemalloc specifics | ttps://people.freebsd.org/~jasone/jemalloc/bsdcan2006/jemalloc.pdf
+** jemalloc specifics | https://www.youtube.com/watch?v=RcWp5vwGlYU&list=PLn0nrSd4xjjZoaFwsTnmS1UFj3ob7gf7s
+** jemalloc specifics | http://jemalloc.net/jemalloc.3.html
+** memory management article | https://akkadia.org/drepper/cpumemory.pdf
+
+regex
+-------
+regex book | https://www.piazinho.com.br/
+
+others
+-------
+garoa hacker club vim talk | https://www.youtube.com/watch?v=UUzW46SeLhg
+nodejs binding | https://medium.com/jspoint/a-simple-guide-to-load-c-c-code-into-node-js-javascript-applications-3fcccf54fd32
+owasp top 10 | https://owasp.org/Top10/
+rabbitmq | https://www.rabbitmq.com/getstarted.html
+how web browser works | https://web.dev/howbrowserswork/
+masterclass insomnia | https://www.youtube.com/watch?v=3tB0uDliS6Y
+the arch of foss apps | https://aosabook.org/en/index.html
+
+os
+-------
+wiki osdev | https://wiki.osdev.org/Main_Page
+linux inside | https://0xax.gitbooks.io/linux-insides/content/
+multiboot specs | https://www.gnu.org/software/grub/manual/multiboot/multiboot.html#OS-image-format
